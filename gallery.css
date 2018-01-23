@@ -1,0 +1,27 @@
+.preview{
+   height: 300px;
+    width: 400px;
+    border: 2px solid black;
+    margin: 100px;
+float: left;
+}
+.overview{
+    height: 300px;
+    width: 400px;
+    border: 2px solid black;
+    margin: 100px;
+    float: right;
+
+}
+#click{
+    height: 150px;
+    width: 400px;
+    margin:auto;
+    border: 2px solid black;
+    font-size: 30px;
+    padding-left: 140px;
+    padding-top: 100px;
+    background-image: url("#");
+    background-size: contain;
+
+}
